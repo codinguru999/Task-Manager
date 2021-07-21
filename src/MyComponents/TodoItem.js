@@ -1,4 +1,4 @@
-import { getByTestId } from '@testing-library/dom'
+
 import React from 'react'
 
 export const TodoItem = ({todo, onDelete}) => {
